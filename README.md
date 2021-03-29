@@ -16,7 +16,7 @@
 Programming languages:
 
 ![Python Badge](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![R Badge](https://img.shields.io/badge/R-14354C?style=for-the-badge&logo=python&logoColor=white)
+![R Badge](https://img.shields.io/badge/R-13654C?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
