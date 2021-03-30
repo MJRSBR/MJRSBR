@@ -1,4 +1,4 @@
-## Hi there, I'm Marcos J R Souza! 👋
+## Hi there, I'm Marcos J R Souza! <img src="https://i.ibb.co/vJQ7p5c/tea-S.png" min-width="50px" max-width="50px" width="50px" align="after" alt="Coffee">
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcosjrsouza)](https://www.linkedin.com/in/marcosjrsouza)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/thmoreiracosta)](https://github.com/MJRSBR)
