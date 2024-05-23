@@ -7,8 +7,6 @@
 
 
 ### About me
-.
-
 
 I'm passionate about technology and innovation. This passion led me, after a period of searching for a new meaning in life while living in Durham - NC and having contacts at Duke University, to be introduced to Machine Learning in 2019. Since then, I've been dedicated to refreshing and updating myself to better understand the fundamentals (statistics, mathematics, programming languages, data science, storytelling, etc.) applicable to the subject, especially in my recent specialization: Public Health
 
