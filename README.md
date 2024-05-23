@@ -10,8 +10,7 @@
 .
 
 
-•	Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt consequuntur ipsa, officiis amet perferendis omnis libero porro rerum facere blanditiis adipisci quibusdam! Quis nemo doloremque totam perferendis iusto praesentium sunt.
-•	Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt consequuntur ipsa, officiis amet perferendis omnis libero porro rerum facere blanditiis adipisci quibusdam! Quis nemo doloremque totam perferendis iusto praesentium sunt.
+I'm passionate about technology and innovation. This passion led me, after a period of searching for a new meaning in life while living in Durham - NC and having contacts at Duke University, to be introduced to Machine Learning in 2019. Since then, I've been dedicated to refreshing and updating myself to better understand the fundamentals (statistics, mathematics, programming languages, data science, storytelling, etc.) applicable to the subject, especially in my recent specialization: Public Health
 
 Programming languages:
 
