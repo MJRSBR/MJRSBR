@@ -1,9 +1,9 @@
 ## Hi there, I'm Marcos J R Souza! <img src="https://i.ibb.co/rM2qFg3/CopofTea.png" alt="CopofTea" min-width="50px" max-width="50px" width="50px" align="after">
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcosjrsouza)](https://www.linkedin.com/in/marcosjrsouza)
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/thmoreiracosta)](https://github.com/MJRSBR)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/marcosjrsouza)](https://twitter.com/marcosjrsouza)
-[![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/fink021/featured)](https://www.youtube.com/user/fink021/featured)
+[![Linkedin Badge](https://img.shields.io/badge/Social-LinkedIn-lightgreen?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/marcosjrsouza)](https://www.linkedin.com/in/marcosjrsouza)
+[![Github Badge](https://img.shields.io/badge/Repo-GitHub-lightgreen?style=flat&logo=GitHub&logoColor=white&link=https://github.com/thmoreiracosta)](https://github.com/MJRSBR)
+[![Twitter Badge](https://img.shields.io/badge/Social-X-lightgreen?style=flat&logo=X&logoColor=white&link=https://twitter.com/marcosjrsouza)](https://twitter.com/marcosjrsouza)
+[![Youtube Badge](https://img.shields.io/badge/Social-YouTube-lightgreen?style=flat&logo=YouTube&logoColor=white&link=https://www.youtube.com/user/fink021/featured)](https://www.youtube.com/user/fink021/featured)
 
 
 ### About me
@@ -12,9 +12,9 @@ My background is Industrial Enginnering and MBA. I'm passionate about technology
 
 Programming languages:
 
-![Python Badge](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![R Badge](https://img.shields.io/badge/R-13654C?style=for-the-badge&logo=python&logoColor=white)
-![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![SQL Badge](https://img.shields.io/badge/SQL-12543B6?style=for-the-badge&logo=sql&logoColor=white)
-![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python Badge](https://img.shields.io/badge/Code-Python-lightgreen?style=flat&logo=Python&logoColor=white)
+![R Badge](https://img.shields.io/badge/Code-R-lightgreen?style=flat&logo=R&logoColor=white)
+![SQL Badge](https://img.shields.io/badge/Code-SQL-lightgreen?style=flat&logo=SQL&logoColor=white)
+![CSS3 Badge](https://img.shields.io/badge/Frontend-CSS-lightgreen?style=flat&logo=CSS3&logoColor=white)
+![HTML5 Badge](https://img.shields.io/badge/Frontend-HTML-lightgreen?style=flat&logo=HTML5&logoColor=white)
 
